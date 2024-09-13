@@ -10,6 +10,8 @@ This repository serves as a web homebase for students enrolled in the program.
 
 Class will be hosted 2 days per week ending with open lab office hours.
 
+***Cohort 1: Tues / Thu 6p - 9p et***
+
 Outside of class students are expected to be following the corresponding freeCodeCamp material.
 
 We recommend dedicating at least 20 hours per week to completing lessons, materials, and projects. 
@@ -36,54 +38,158 @@ Week 2 - Software Development Overview
 
 ## Module 2: Responsive Web Design Certification (4)
 
-Week 3 - 
+Week 3 - Intro to HTML & CSS
 
-Week 4 - 
+- HTML Tags
+- CSS Rules
+- CSS Colors
+- HTML Forms
+**Survey Form**
 
-Week 5 - 
+Week 4 - Intermediate CSS
 
-Week 6 - 
+- Box Model
+- Flexbox
+- Typography
+- Accessiblity
+**Tribute Page**
+
+Week 5 - Intermediate CSS (cont...)
+
+- Pseudo Selectors
+- Responsive Web Design
+**Technical Documentation Page**
+
+Week 6 - Advanced CSS
+
+- CSS Variables
+- CSS Grid
+**Product Landing Page**
+
+Week 7 - Advanced CSS (cont...)
+
+- CSS Animation
+- CSS Transforms
+**Personal Portfolio Webpage**
 
 ## Module 3: JavaScript Algorithms & Data Structures (5)
 
-Week 7 - 
-
 Week 8 - 
+
+- Basic JavaScript
+- Form Validation
+- Basic String and Array Methods
+- Date Object
+**Build a Palindrome Checker**
 
 Week 9 - 
 
+- Modern JavaScript Methods
+- localStorage
+- Recursion
+**Build a Roman Numeral Converter**
+
 Week 10 - 
+
+- Basic Algorithmic Thinking
+- Advanced Array Methods
+- Functional Programming
+- Regular Expressions
+**Build a Telephone Number Validator**
 
 Week 11 - 
 
-## Module 4: Frontend Development Libraries (4)
+- Basic OOP
+- Intermediate OOP
+- Intermediate Algorithmic Thinking
+**Build a Cash Register**
 
 Week 12 - 
 
+- Fetch and Promises
+- Asynchronous Programming
+**Build a Pokemon Search App**
+
+## Module 4: Frontend Development Libraries (4)
+
 Week 13 - 
+
+- Bootstrap
 
 Week 14 - 
 
+- jQuery
+- SASS
+
 Week 15 - 
 
-## Module 5: Relational Database (4)
+- React
+- Redux
 
 Week 16 - 
 
+- React & Redux
+
+**Build a Random Quote Machine**
+**Build a Markdown Previewer**
+**Build a Drum Machine**
+**Build a JavaScript Calculator**
+**Build a 25 + 5 Clock**
+
+## Module 5: Relational Database (4)
+
 Week 17 - 
+
+- Bash
+- Relational Databases
+**Build a Celstial Bodies Database**
 
 Week 18 - 
 
+- Bash Scripting
+- SQL
+**Build a World Cup Database**
+
 Week 19 - 
 
-## Module 6: Backend Development and APIs (5)
+- Advanced Bash
+- Bash & SQL
+**Build a Salon Appointment Scheduler**
 
 Week 20 - 
 
+- Nano
+- Git
+**Build a Periodic Table Database**
+
+
+**Build a Number Guessing Game**
+
+## Module 6: Backend Development and APIs (5)
+
 Week 21 - 
+
+- NPM
+- Managing Packages
 
 Week 22 - 
 
+- Basic Node and Express
+
 Week 23 - 
 
+- Node and Express (cont...)
+
 Week 24 - 
+
+- MongoDB and Mongoose
+
+Week 25 - 
+
+- MongoDB and Mongoose (cont...)
+
+**Timestamp Microservice**
+**Request Header Parser Microservice**
+**URL Shortener Microservice**
+**Exercise Tracker**
+**File Metadata Microservice**
