@@ -36,7 +36,7 @@ Week 2 - Software Development Overview
 - Frontend vs Backend vs Fullstack
 - 
 
-## Module 2: Responsive Web Design Certification (4)
+## Module 2: Responsive Web Design Certification (5)
 
 Week 3 - Intro to HTML & CSS
 
@@ -74,7 +74,7 @@ Week 7 - Advanced CSS (cont...)
 
 ## Module 3: JavaScript Algorithms & Data Structures (5)
 
-Week 8 - 
+Week 8 - Intro to JavaScript
 
 - Basic JavaScript
 - Form Validation
@@ -89,7 +89,7 @@ Week 9 -
 - Recursion
 **Build a Roman Numeral Converter**
 
-Week 10 - 
+Week 10 - Data Structures & Algorithmns
 
 - Basic Algorithmic Thinking
 - Advanced Array Methods
@@ -97,7 +97,7 @@ Week 10 -
 - Regular Expressions
 **Build a Telephone Number Validator**
 
-Week 11 - 
+Week 11 - Object Oriented Programming (OOP)
 
 - Basic OOP
 - Intermediate OOP
@@ -112,21 +112,21 @@ Week 12 -
 
 ## Module 4: Frontend Development Libraries (4)
 
-Week 13 - 
+Week 13 - Bootstrap
 
 - Bootstrap
 
-Week 14 - 
+Week 14 - jQuery & SASS
 
 - jQuery
 - SASS
 
-Week 15 - 
+Week 15 - React & Redux
 
 - React
 - Redux
 
-Week 16 - 
+Week 16 - React & Redux
 
 - React & Redux
 
@@ -136,27 +136,27 @@ Week 16 -
 **Build a JavaScript Calculator**
 **Build a 25 + 5 Clock**
 
-## Module 5: Relational Database (4)
+## Module 5: Relational Databases (4)
 
-Week 17 - 
+Week 17 - Bash & Relational Databases
 
 - Bash
 - Relational Databases
 **Build a Celstial Bodies Database**
 
-Week 18 - 
+Week 18 - Bash Scripting & SQL
 
 - Bash Scripting
 - SQL
 **Build a World Cup Database**
 
-Week 19 - 
+Week 19 - Advanced Bash
 
 - Advanced Bash
 - Bash & SQL
 **Build a Salon Appointment Scheduler**
 
-Week 20 - 
+Week 20 - Nano & Git
 
 - Nano
 - Git
@@ -167,24 +167,24 @@ Week 20 -
 
 ## Module 6: Backend Development and APIs (5)
 
-Week 21 - 
+Week 21 - Package Management
 
 - NPM
 - Managing Packages
 
-Week 22 - 
+Week 22 - Node & Express
 
 - Basic Node and Express
 
-Week 23 - 
+Week 23 - Node & Express
 
 - Node and Express (cont...)
 
-Week 24 - 
+Week 24 - MongoDB & Mongoose
 
 - MongoDB and Mongoose
 
-Week 25 - 
+Week 25 - MongoDB & Mongoose
 
 - MongoDB and Mongoose (cont...)
 
