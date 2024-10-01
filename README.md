@@ -44,6 +44,7 @@ Week 3 - Intro to HTML & CSS
 - CSS Rules
 - CSS Colors
 - HTML Forms
+
 **Survey Form**
 
 Week 4 - Intermediate CSS
@@ -52,24 +53,28 @@ Week 4 - Intermediate CSS
 - Flexbox
 - Typography
 - Accessiblity
+
 **Tribute Page**
 
 Week 5 - Intermediate CSS (cont...)
 
 - Pseudo Selectors
 - Responsive Web Design
+
 **Technical Documentation Page**
 
 Week 6 - Advanced CSS
 
 - CSS Variables
 - CSS Grid
+
 **Product Landing Page**
 
 Week 7 - Advanced CSS (cont...)
 
 - CSS Animation
 - CSS Transforms
+
 **Personal Portfolio Webpage**
 
 ## Module 3: JavaScript Algorithms & Data Structures (5)
@@ -80,6 +85,7 @@ Week 8 - Intro to JavaScript
 - Form Validation
 - Basic String and Array Methods
 - Date Object
+
 **Build a Palindrome Checker**
 
 Week 9 - 
@@ -87,6 +93,7 @@ Week 9 -
 - Modern JavaScript Methods
 - localStorage
 - Recursion
+
 **Build a Roman Numeral Converter**
 
 Week 10 - Data Structures & Algorithmns
@@ -95,6 +102,7 @@ Week 10 - Data Structures & Algorithmns
 - Advanced Array Methods
 - Functional Programming
 - Regular Expressions
+
 **Build a Telephone Number Validator**
 
 Week 11 - Object Oriented Programming (OOP)
@@ -102,12 +110,14 @@ Week 11 - Object Oriented Programming (OOP)
 - Basic OOP
 - Intermediate OOP
 - Intermediate Algorithmic Thinking
+
 **Build a Cash Register**
 
 Week 12 - 
 
 - Fetch and Promises
 - Asynchronous Programming
+
 **Build a Pokemon Search App**
 
 ## Module 4: Frontend Development Libraries (4)
@@ -131,9 +141,13 @@ Week 16 - React & Redux
 - React & Redux
 
 **Build a Random Quote Machine**
+
 **Build a Markdown Previewer**
+
 **Build a Drum Machine**
+
 **Build a JavaScript Calculator**
+
 **Build a 25 + 5 Clock**
 
 ## Module 5: Relational Databases (4)
@@ -142,24 +156,28 @@ Week 17 - Bash & Relational Databases
 
 - Bash
 - Relational Databases
+
 **Build a Celstial Bodies Database**
 
 Week 18 - Bash Scripting & SQL
 
 - Bash Scripting
 - SQL
+
 **Build a World Cup Database**
 
 Week 19 - Advanced Bash
 
 - Advanced Bash
 - Bash & SQL
+
 **Build a Salon Appointment Scheduler**
 
 Week 20 - Nano & Git
 
 - Nano
 - Git
+
 **Build a Periodic Table Database**
 
 
@@ -189,7 +207,11 @@ Week 25 - MongoDB & Mongoose
 - MongoDB and Mongoose (cont...)
 
 **Timestamp Microservice**
+
 **Request Header Parser Microservice**
+
 **URL Shortener Microservice**
+
 **Exercise Tracker**
+
 **File Metadata Microservice**
