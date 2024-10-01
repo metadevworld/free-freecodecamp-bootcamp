@@ -34,7 +34,6 @@ Week 2 - Software Development Overview
 
 - Intro to the Web and Software
 - Frontend vs Backend vs Fullstack
-- 
 
 ## Module 2: Responsive Web Design Certification (5)
 
