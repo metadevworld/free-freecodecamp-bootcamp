@@ -214,3 +214,15 @@ Week 25 - MongoDB & Mongoose
 **Exercise Tracker**
 
 **File Metadata Microservice**
+
+
+# Setting Up This Repo
+
+```
+git clone --recursive <repository_url>
+```
+If you did not do a recursive clone first
+```
+git submodule init
+git submodule update --init --recursive
+```
